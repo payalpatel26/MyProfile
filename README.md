@@ -4,6 +4,7 @@
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/Screenshot _DesktopMyProfile.png" />
+   <img alt="Demo" src="./Images/Screenshot _mobileMyProfile.png" />
 </div>
 
 
