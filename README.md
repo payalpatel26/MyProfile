@@ -3,7 +3,7 @@
   <a href="https://my-profile-dun-ten.vercel.app/" target="_blank">Payal.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/Screenshot_DesktopMyProfile.png" />
+  <img alt="Demo" src="./Images/Screenshot _DesktopMyProfile.png" />
 </div>
 
 
