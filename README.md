@@ -2,20 +2,33 @@
   Portfolio Website - v2.0<br/>
   <a href="https://my-profile-dun-ten.vercel.app/" target="_blank">Payal.tech</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/Screenshot _DesktopMyProfile.png" />
-   <img alt="Demo" src="./Images/Screenshot _mobileMyProfile.png" />
-</div>
+<table align ="center" border="0px">
+  <tr>
+    <td>
+        <img alt="Demo" src="./Images/Screenshot _DesktopMyProfile.png"  />
+    </td>
+    <td>
+      <img alt="Demo" src="./Images/Screenshot _mobileMyProfile.png"  /> 
+    </td>
+  </tr>
+
+  
+   
+</table>
+<div align="left"  width="50%" height="30%" >
+
+ </div>
+
 
 
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [PayalPatel26](https://github.com/payalpatel26/MyProfile). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://my-profile-dun-ten.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://my-profile-dun-ten.vercel.app/" target="_blank">Payal.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
